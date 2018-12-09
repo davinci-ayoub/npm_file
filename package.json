@@ -1,0 +1,21 @@
+{
+  "name": "npm_file",
+  "version": "1.0.0",
+  "description": "starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davinci-ayoub"
+  },
+  "keywords": [
+    "davinci"
+  ],
+  "author": "ayoub",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
